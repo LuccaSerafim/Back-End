@@ -39,9 +39,6 @@ python -m uvicorn Main:app --reload --port 8080
 
 
 \## Observações
-
-\- Substituir `SERVER\_IP` pelo IP do seu computador na rede.
-
 \- Necessário instalar Npcap no Windows para captura de pacotes.
 
 
