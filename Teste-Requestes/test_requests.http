@@ -1,5 +1,5 @@
 ### Testando endpoint raiz
-GET http://127.0.0.1:8080/
+GET http://127.0.0.1:5000/data
 
 ### Testando endpoint de tráfego
-GET http://127.0.0.1:8080/traffic
+GET http://192.168.0.166:5000/data
