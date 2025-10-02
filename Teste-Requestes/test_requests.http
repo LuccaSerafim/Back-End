@@ -1,0 +1,5 @@
+### Testando endpoint raiz
+GET http://127.0.0.1:5000/data
+
+### Testando endpoint de tráfego (exemplo com IP local)
+GET http://<SEU_IP_LOCAL>:5000/data
