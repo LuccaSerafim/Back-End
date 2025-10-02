@@ -27,7 +27,7 @@ Instrucoes.md             # Instruções adicionais
 ### 1. Clone o repositório  
   
 git clone https://github.com/Trabalho-Redes/Back-End.git |
-cd Back-End
+cd Esqueleto-Completo
 
 
 
